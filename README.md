@@ -10,5 +10,5 @@
 * Adversarial
     - [JYZ] Efﬁcient Decision-based Black-box Adversarial Attacks on Face Recognition ([CVPR'19](https://arxiv.org/abs/1904.04433v1))  
     - [JYZ] HopSkipJumpAttack: A Query-Efficient Decision-Based Attack ([arxiv](https://arxiv.org/abs/1904.02144)) ([code](https://github.com/Jianbo-Lab/HSJA))  
-    - [JYZ] Towards Query-efficient Black-box Adversary with Zeroth-order Natural (review)  
+    - [JYZ] Towards Query-efficient Black-box ... (review)  
     - [JYZ] Sensitive-Sample Fingerprinting of Deep Neural Networks ([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/html/He_Sensitive-Sample_Fingerprinting_of_Deep_Neural_Networks_CVPR_2019_paper.html))  
