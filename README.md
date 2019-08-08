@@ -6,7 +6,12 @@
     - [YJC] A Probabilistic U-Net for Segmentation of Ambiguous Images ([NIPS'18](https://arxiv.org/abs/1806.05034)) (code: [official re-implementation (TensorFlow)](https://github.com/SimonKohl/probabilistic_unet), [PyTorch](https://github.com/stefanknegt/probabilistic_unet_pytorch))
     - [YJC] PHiSeg: Capturing Uncertainty in Medical Image Segmentation ([MICCAI'19](https://arxiv.org/abs/1906.04045)) ([code](https://github.com/baumgach/PHiSeg-code)): good results, enhanced Prob-UNet. Multi-scale prior encoding for ambiguous segmentation. 
 * Uncertainty
-    - sth
+    - [HXY] Using Pre-Training Can Improve Model Robustness and Uncertainty ([ICML'19](https://arxiv.org/abs/1901.09960)) ([Official PyTorch Code](https://github.com/hendrycks/pre-training))
+    - [HXY] ML-LOO: Detecting Adversarial Examples with Feature Attribution ([arxiv](https://arxiv.org/abs/1906.03499))
+    - [HXY] Hierarchical Novelty Detection for Visual Object Recognition ([CVPR'18](https://arxiv.org/abs/1804.00722))
+    - [HXY] Out-of-Distribution Detection using Multiple Semantic Label Representations
+ ([NIPS'18](http://arxiv.org/abs/1808.06664)) ([Cfficial PyTorch Code](https://github.com/MLSpeech/semantic_OOD))
+    - [HXY] OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations ([CVPR'19](http://arxiv.org/abs/1903.08550)) ([Official MXNet Code](https://github.com/PramuPerera/OCGAN)) 
 * Adversarial
     - [JYZ] Efﬁcient Decision-based Black-box Adversarial Attacks on Face Recognition ([CVPR'19](https://arxiv.org/abs/1904.04433v1))  
     - [JYZ] HopSkipJumpAttack: A Query-Efficient Decision-Based Attack ([arxiv](https://arxiv.org/abs/1904.02144)) ([code](https://github.com/Jianbo-Lab/HSJA))  
