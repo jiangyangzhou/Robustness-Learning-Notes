@@ -1,5 +1,11 @@
 ﻿# Robustness-Learning-Notes
 
+## 1908--
+* ---
+    
+* Uncertainty
+    - [HXY] Using Pre-Training Can Improve Model Robustness and Uncertainty ([ICLR'18](https://arxiv.org/abs/1711.09325)) ([Official PyTorch Code](https://github.com/alinlab/Confident_classifier))
+* ---
 
 ## 190806
 * Ambiguity
