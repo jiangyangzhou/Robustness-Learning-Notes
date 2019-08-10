@@ -1,5 +1,11 @@
 ﻿# Robustness-Learning-Notes
 
+## 1908--
+* 
+* Uncertainty
+    - [HXY] Using Pre-Training Can Improve Model Robustness and Uncertainty ([ICLR'18](https://arxiv.org/abs/1711.09325)) ([Official PyTorch Code](https://github.com/alinlab/Confident_classifier))
+    - [HXY] Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples ([NIPS'18](https://arxiv.org/abs/1810.11580)) ([Official Caffe Code](https://github.com/AmIAttribute/AmI))
+* 
 
 ## 190806
 * Ambiguity
@@ -8,9 +14,9 @@
 * Uncertainty
     - [HXY] Using Pre-Training Can Improve Model Robustness and Uncertainty ([ICML'19](https://arxiv.org/abs/1901.09960)) ([Official PyTorch Code](https://github.com/hendrycks/pre-training))
     - [HXY] ML-LOO: Detecting Adversarial Examples with Feature Attribution ([arxiv](https://arxiv.org/abs/1906.03499))
-    - [HXY] Hierarchical Novelty Detection for Visual Object Recognition ([CVPR'18](https://arxiv.org/abs/1804.00722))
+    - [HXY] Hierarchical Novelty Detection for Visual Object Recognition ([CVPR'18](https://arxiv.org/abs/1804.00722)) ([Official PyTorch Code](https://github.com/kibok90/cvpr2018-hnd))
     - [HXY] Out-of-Distribution Detection using Multiple Semantic Label Representations
- ([NIPS'18](http://arxiv.org/abs/1808.06664)) ([Cfficial PyTorch Code](https://github.com/MLSpeech/semantic_OOD))
+ ([NIPS'18](http://arxiv.org/abs/1808.06664)) ([Official PyTorch Code](https://github.com/MLSpeech/semantic_OOD))
     - [HXY] OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations ([CVPR'19](http://arxiv.org/abs/1903.08550)) ([Official MXNet Code](https://github.com/PramuPerera/OCGAN)) 
 * Adversarial
     - [JYZ] Efﬁcient Decision-based Black-box Adversarial Attacks on Face Recognition ([CVPR'19](https://arxiv.org/abs/1904.04433v1))  
