@@ -1,12 +1,14 @@
 ﻿# Robustness-Learning-Notes
 
-## 1908--
-* 
+## 190812
+* Vision
+  * [YJC] Meta-SR: A Magnification-Arbitrary Network for Super-Resolution ([CVPR'19](https://arxiv.org/abs/1903.00875)): very bad writing...
+  * [YJC] Gradient Harmonized Single-stage Detector ([AAAI'19](https://arxiv.org/abs/1811.05181)): it seems a good and effective paper. Surprisingly effective on my dataset.
+  * [YJC] Deep Layer Aggregation ([CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf))
 * Uncertainty
     - [HXY] Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples
  ([ICLR'18](https://arxiv.org/abs/1711.09325)) ([Official PyTorch Code](https://github.com/alinlab/Confident_classifier))
     - [HXY] Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples ([NIPS'18](https://arxiv.org/abs/1810.11580)) ([Official Caffe Code](https://github.com/AmIAttribute/AmI))
-* 
 
 ## 190806
 * Ambiguity
