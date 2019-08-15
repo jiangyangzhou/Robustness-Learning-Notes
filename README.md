@@ -1,10 +1,18 @@
 ﻿# Robustness-Learning-Notes
 
+## 1908--
+* Vision
+  * [HXY] 
+* Uncertainty
+    - [HXY] On Calibration of Modern Neural Networks ([ICML'17](https://arxiv.org/abs/1706.04599)) ([Non-official Code](https://github.com/gpleiss/temperature_scaling))
+    - [HXY] To Trust Or Not To Trust A Classifier ([NIPS'18](https://arxiv.org/abs/1805.11783)) ([scikit-learn Code]( https://github.com/google/TrustScore))
+
 ## 190812
 * Vision
   * [YJC] Meta-SR: A Magnification-Arbitrary Network for Super-Resolution ([CVPR'19](https://arxiv.org/abs/1903.00875)): very bad writing...
   * [YJC] Gradient Harmonized Single-stage Detector ([AAAI'19](https://arxiv.org/abs/1811.05181)): it seems a good and effective paper. Surprisingly effective on my dataset.
   * [YJC] Deep Layer Aggregation ([CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf))
+  * [HXY] Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units ([ICML'16](https://arxiv.org/abs/1603.05201))
 * Uncertainty
     - [HXY] Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples
  ([ICLR'18](https://arxiv.org/abs/1711.09325)) ([Official PyTorch Code](https://github.com/alinlab/Confident_classifier))
