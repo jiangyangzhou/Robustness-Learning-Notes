@@ -4,8 +4,10 @@
 * Vision
   * [HXY] 
 * Uncertainty
-    - [HXY] On Calibration of Modern Neural Networks ([ICML'17](https://arxiv.org/abs/1706.04599)) ([Non-official Code](https://github.com/gpleiss/temperature_scaling))
-    - [HXY] To Trust Or Not To Trust A Classifier ([NIPS'18](https://arxiv.org/abs/1805.11783)) ([scikit-learn Code]( https://github.com/google/TrustScore))
+  * [HXY] On Calibration of Modern Neural Networks ([ICML'17](https://arxiv.org/abs/1706.04599)) ([Non-official Code](https://github.com/gpleiss/temperature_scaling))
+  * [HXY] To Trust Or Not To Trust A Classifier ([NIPS'18](https://arxiv.org/abs/1805.11783)) ([scikit-learn Code]( https://github.com/google/TrustScore))
+* Privacy
+  * [HXY] Scalable Private Learning with PATE ([ICLR'18](https://arxiv.org/abs/1802.08908)) ([Official Tensorflow Code](https://github.com/tensorflow/privacy))
 
 ## 190812
 * Vision
