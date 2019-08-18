@@ -4,10 +4,17 @@
 * Vision
   * [HXY] 
 * Uncertainty
-  * [HXY] On Calibration of Modern Neural Networks ([ICML'17](https://arxiv.org/abs/1706.04599)) ([Non-official Code](https://github.com/gpleiss/temperature_scaling))
-  * [HXY] To Trust Or Not To Trust A Classifier ([NIPS'18](https://arxiv.org/abs/1805.11783)) ([scikit-learn Code]( https://github.com/google/TrustScore))
+  * [HXY] On Calibration of Modern Neural Networks ([ICML'17](https://arxiv.org/abs/1706.04599)) ([Non-official Code](https://github.com/gpleiss/temperature_scaling)). 
+    1) Metrics: ECE, MCE. 
+    2) Methods: histogram binning and its variants, Platt scaling/Temperature scaling. 
+    3) Factors of miscalibrated: model capacity, regularization. 
+    4) NLL
+  * [HXY] To Trust Or Not To Trust A Classifier ([NIPS'18](https://arxiv.org/abs/1805.11783)) ([scikit-learn Code]( https://github.com/google/TrustScore)). leverage KNN to measure whether the classification result is trustworthy.
 * Privacy
-  * [HXY] Scalable Private Learning with PATE ([ICLR'18](https://arxiv.org/abs/1802.08908)) ([Official Tensorflow Code](https://github.com/tensorflow/privacy))
+  * [HXY] Scalable Private Learning with PATE ([ICLR'18](https://arxiv.org/abs/1802.08908)) ([Official Tensorflow Code](https://github.com/tensorflow/privacy)). 
+     1) Differential privacy. 
+     2) PATE: disjoint data for teachers, Laplacian noise added to each class of the teachers' vote histogram, leverage public unlabeled data to train student. 
+     3) Scalable PATE: Gaussian noise (more centralized in more classes case), only samples with strong consensus in teachers are leaked to the student,  samples where student confidently agrees with teachers are discarded (can't help learning).
 
 ## 190812
 * Vision
