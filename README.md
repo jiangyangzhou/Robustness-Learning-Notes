@@ -3,6 +3,8 @@
 ## 1908--
 * Vision
   * [HXY] AutoAugment: Learning Augmentation Strategies from Data ([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf)) Briefly introduce the RL technique in archtecture search.
+  
+## 190820
 * Uncertainty
   * [HXY] On Calibration of Modern Neural Networks ([ICML'17](https://arxiv.org/abs/1706.04599)) ([Non-official Code](https://github.com/gpleiss/temperature_scaling)). 
     1) Metrics: ECE, MCE. 
