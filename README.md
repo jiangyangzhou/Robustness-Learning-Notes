@@ -16,12 +16,12 @@
   * [HXY] Scalable Private Learning with PATE ([ICLR'18](https://arxiv.org/abs/1802.08908)) ([Official Tensorflow Code](https://github.com/tensorflow/privacy)). 
      1) Differential privacy. 
      2) PATE: disjoint data for teachers, Laplacian noise added to each class of the teachers' vote histogram, leverage public unlabeled data to train student. 
-     3) Scalable PATE: Gaussian noise (more centralized in more classes case), only samples with strong consensus in teachers are leaked to the student,  samples where student confidently agrees with teachers are discarded (can't help learning).  
-* Meta-learning
- * [JYZ] Learning to learn by gradient descent by gradient descent ([NIPS'16](https://arxiv.org/abs/1606.04474))([code](https://github.com/deepmind/learning-to-learn))
-*Adversarial
- * [JYZ] DECISION-BASED ADVERSARIAL ATTACKS:RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODELS.  (First boundary attack) ([arxiv](https://arxiv.org/abs/1712.04248)) ([code](https://github.com/greentfrapp/boundary-attack))
- * [JYZ] You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle. ([arxiv](https://arxiv.org/abs/1905.00877)) ([code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once))
+     3) Scalable PATE: Gaussian noise (more centralized in more classes case), only samples with strong consensus in teachers are leaked to the student,  samples where student confidently agrees with teachers are discarded (can't help learning).   
+* Meta-learning  
+ - [JYZ] Learning to learn by gradient descent by gradient descent ([NIPS'16](https://arxiv.org/abs/1606.04474))([code](https://github.com/deepmind/learning-to-learn))  
+* Adversarial
+ - [JYZ] DECISION-BASED ADVERSARIAL ATTACKS:RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODELS.  (First boundary attack) ([arxiv](https://arxiv.org/abs/1712.04248)) ([code](https://github.com/greentfrapp/boundary-attack))  
+ - [JYZ] You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle. ([arxiv](https://arxiv.org/abs/1905.00877)) ([code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once))  
 
 ## 190812
 * Vision
