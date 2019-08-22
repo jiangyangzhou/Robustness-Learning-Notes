@@ -20,7 +20,7 @@
 * Meta-learning  
   - [JYZ] Learning to learn by gradient descent by gradient descent ([NIPS'16](https://arxiv.org/abs/1606.04474))([code](https://github.com/deepmind/learning-to-learn))  
 * Adversarial  
-  - [JYZ] DECISION-BASED ADVERSARIAL ATTACKS:RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODELS.  (First boundary attack) ([arxiv](https://arxiv.org/abs/1712.04248)) ([code](https://github.com/greentfrapp/boundary-attack))  
+  - [JYZ] Decision-based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (First boundary attack) ([arxiv](https://arxiv.org/abs/1712.04248)) ([code](https://github.com/greentfrapp/boundary-attack))  
   - [JYZ] You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle. ([arxiv](https://arxiv.org/abs/1905.00877)) ([code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once))  
 
 ## 190812
